@@ -1,21 +1,20 @@
 # Strathmore University Examination Processing System  
 **Developer:** Olive Mbinda  
-**Student ID:** 145583  
-**Submission Date:** 10th April 2025  
+**Student ID:** 145583    
 
 ---
 
 ## Project Overview  
 A Java program that processes examination results for Strathmore University, featuring:  
 - Student data management (name, 6-digit numeric ID)  
-- Marks input for 5 core subjects  
+- Marks input for 5 subjects  
 - Automated grading based on Strathmore's official system  
 - Professional transcript generation  
 
 ---
 
 ## Technical Specifications  
-**Language:** Java 17  
+**Language:** Java   
 **Files:**  
 | File                | Purpose                                  |  
 |---------------------|------------------------------------------|  
@@ -29,7 +28,7 @@ A Java program that processes examination results for Strathmore University, fea
 
 ## Key Features  
  **Strict Data Validation**  
-   - 6-digit numeric student IDs (e.g., `145583`)  
+   - 6-digit numeric student IDs 
    - Marks constrained to 0-100 range  
    - Name fields accept alphabetic characters only  
 
