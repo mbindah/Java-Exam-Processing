@@ -1,6 +1,6 @@
 # Strathmore University Examination Processing System  
 **Developer:** Olive Mbinda  
-**Student ID:** [Your Student ID, e.g., 145583]  
+**Student ID:** 145583  
 **Submission Date:** 10th April 2025  
 
 ---
@@ -28,12 +28,12 @@ A Java program that processes examination results for Strathmore University, fea
 ---
 
 ## Key Features  
-✔ **Strict Data Validation**  
+ **Strict Data Validation**  
    - 6-digit numeric student IDs (e.g., `145583`)  
    - Marks constrained to 0-100 range  
    - Name fields accept alphabetic characters only  
 
-✔ **Official Grading Scale**  
+✔**Official Grading Scale**  
 | Average | Grade | Remarks                   |  
 |---------|-------|---------------------------|  
 | ≥ 75    | A     | Excellent Performance     |  
@@ -43,7 +43,7 @@ A Java program that processes examination results for Strathmore University, fea
 | ≥ 40    | D     | Marginal Pass             |  
 | < 40    | E     | Unsatisfactory Performance|  
 
-✔ **Transcript Includes**  
+ **Transcript Includes**  
    - Student identification details  
    - All subject marks with percentages  
    - Calculated average and final grade  
