@@ -33,7 +33,7 @@ A Java program that processes examination results for Strathmore University, fea
    - Marks constrained to 0-100 range  
    - Name fields accept alphabetic characters only  
 
-✔**Official Grading Scale**  
+**Official Grading Scale**  
 | Average | Grade | Remarks                   |  
 |---------|-------|---------------------------|  
 | ≥ 75    | A     | Excellent Performance     |  
